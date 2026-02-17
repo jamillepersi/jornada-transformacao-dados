@@ -105,7 +105,7 @@ Relatório final estruturado para documentação e compartilhamento.
 
 🌐 Dashboard Online
 
-👉 (Adicionar link após deploy)
+👉 http://localhost:8503/
 
 📄 Exemplo de Insight Gerado
 
